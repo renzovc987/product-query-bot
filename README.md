@@ -13,7 +13,7 @@ Built with:
 ## 🛠️ Run Locally
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/product-query-bot.git
+git clone https://github.com/renzovc987/product-query-bot.git
 cd product-query-bot
 python -m venv venv
 venv\Scripts\activate      # On Windows

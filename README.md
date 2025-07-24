@@ -33,7 +33,7 @@ docker run --env-file .env -p 8000:8000 product-query-bot
 ```bash
 curl -X POST http://localhost:8000/query \
   -H "Content-Type: application/json" \
-  -d '{"user_id": "u001", "query": "Which product has AMOLED screen?"}'
+  -d '{"user_id": "u001", "query": "¿Qué laptop tiene procesador i7?"}'
 ```
 
 ## 📄 License

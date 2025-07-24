@@ -1,0 +1,27 @@
+# FastAPI y servidor
+fastapi
+uvicorn
+
+# LangChain moderno y dividido
+langchain
+langchain-core
+langchain-community
+
+# Embeddings locales y gratuitos
+sentence-transformers
+
+# FAISS vector store
+faiss-cpu
+
+# Para manejo de entornos
+python-dotenv
+
+# Para validaciones en FastAPI
+pydantic
+
+# Para compatibilidad con OpenRouter / tokens
+openai
+tiktoken
+
+# Cargadores avanzados de documentos (opcional pero recomendado)
+unstructured

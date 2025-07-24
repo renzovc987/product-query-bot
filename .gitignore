@@ -1,0 +1,19 @@
+# Entorno virtual
+venv/
+__pycache__/
+*.pyc
+
+# Configuración privada
+.env
+
+# Archivos temporales
+*.log
+*.db
+*.sqlite3
+
+# IDEs
+.vscode/
+.idea/
+
+# Otros
+*.zip
